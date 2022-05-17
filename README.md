@@ -1,9 +1,19 @@
-<h1 align="center">  👋 I'm Uthpal Umesh   </h1>
-<h3 align="center">A passionate frontend developer | HyFlex Web 3.0 </h3>
+<h1 align="center">  👋 I'm Uthpal Umesh :octocat: </h1>
+<h3 align="center">A passionate frontend developer | HyFlex Web 3.0 | Digital Marketer</h3>
 <hr>
 
-<p align="center"><img width="40%" style="border-radius: 120px 20px 120px 20px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"></p>
- <p align="right"> :octocat: <img src="https://komarev.com/ghpvc/?username=uthpalumesh&label=Profile%20views&color=0e75b6&style=flat" alt="uthpalumesh" />  </p>
+<p align="center"><img width="30%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"></p>
+
+<table align=center>
+ <tr>
+  <td><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{uthpalumesh}1212%2Fhit-counter" alt="uthpalumesh" /></td>
+  <td><img src="https://github-profile-trophy.vercel.app/?username=uthpalumesh" alt="uthpalumesh" /> </td>
+  
+  <td> <img src="https://komarev.com/ghpvc/?username=uthpalumesh&label=Profile%20views&color=0e75b6&style=flat" alt="uthpalumesh" /> </td>
+ </tr>
+ </table>
+
+ 
 <table style="overflow: hidden !important;" align="center">
   <tr>
      <td>🔭 I’m currently working on :<br> Drupal | Laravel </td>
