@@ -1,5 +1,5 @@
 <h1 align="center">  👋 I'm Uthpal Umesh :octocat: </h1>
-<h3 align="center">A passionate frontend developer | HyFlex Web 3.0 | Digital Marketer</h3>
+<h3 align="center">A Passionate Front-end web Developer | HyFlex Web 3.0 | Digital Marketer</h3>
 <hr>
 
 <p align="center"><img width="30%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"></p>
