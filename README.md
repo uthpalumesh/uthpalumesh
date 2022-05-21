@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--LZYLGwXM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8cz7yqmjjyva9w8f0di1.gif)
+<img alihn="center" width="30%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--LZYLGwXM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8cz7yqmjjyva9w8f0di1.gif">
 <h1 align="center">  👋 I'm Uthpal Umesh :octocat: </h1>
 <h3 align="center">A Passionate Front-end web Developer | HyFlex Web 3.0 | Digital Marketer</h3>
 <hr>
