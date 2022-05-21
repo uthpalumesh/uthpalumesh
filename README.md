@@ -23,7 +23,7 @@
     <tr>
      <td>👯 I’m looking to collaborate on : <br> Laravel | Drupal | Joomla | WordPress </td>
      <td>:alien: I’m looking for yes you are right!  </td>
-     <td>😄 Pronouns: he/him</td>
+     <td>😄 Pronouns: he/him </td>
    <tr>
      
 </table>
