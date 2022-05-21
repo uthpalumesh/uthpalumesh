@@ -1,12 +1,9 @@
 <!--<img margin="auto" width="30%" src="https://dev-to-uploads.s3.amazonaws.com/i/8cz7yqmjjyva9w8f0di1.gif">-->
   <h1 align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">  I'm Uthpal Umesh :octocat: </h1>
  
- <table align="center" width="100%">
- <tr>
-  <td  width="80%"><h3 align="center">A Passionate Front-end web Developer | HyFlex Web 3.0 | Digital Marketer</h3></td>
-  <td  width="30%"><a href="https://github.com/uthpalumesh?tab=followers"><img src="https://img.shields.io/github/followers/uthpaumesh?label=Followers&style=social" alt="Follow Uthpal Umesh's Github"></a></td>
- </tr>
- </table>
+
+  <h3 align="center">A Passionate Front-end web Developer | HyFlex Web 3.0 | Digital Marketer</h3></td>
+
  
 
 <hr>
@@ -18,7 +15,7 @@
   <td><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{uthpalumesh}1212%2Fhit-counter" alt="uthpalumesh" /></td>
   <td><img src="https://github-profile-trophy.vercel.app/?username=uthpalumesh" alt="uthpalumesh" /> </td>
   
-  <td> <img src="https://komarev.com/ghpvc/?username=uthpalumesh&label=Profile%20views&color=0e75b6&style=flat" alt="uthpalumesh" /> </td>
+  <td> <img src="https://komarev.com/ghpvc/?username=uthpalumesh&label=Profile%20views&color=0e75b6&style=flat" alt="uthpalumesh" /><br><a href="https://github.com/uthpalumesh?tab=followers"  ><img src="https://img.shields.io/github/followers/uthpalumesh?style=social" alt="Follow @uthpalumesh on GitHub"></a> </td>
  </tr>
  </table>
 <p align="center"><img width="100%" src="https://raw.githubusercontent.com/mayankchaudhary26/mayankchaudhary26/output/github-contribution-grid-snake.svg"></p>
