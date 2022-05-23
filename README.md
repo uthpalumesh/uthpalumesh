@@ -29,7 +29,7 @@
     <tr>
      <td>👯 I’m looking to collaborate on : <br> Laravel | Drupal | Joomla | WordPress </td>
      <td>:alien: I’m looking for <-- Found that im the One </td>
-     <td> 𝖕𝖊𝖆𝖈𝖊𝖋𝖚𝖑 𝖜𝖆𝖗𝖗𝖎𝖔𝖗 </td>
+     <td><img width="20%" src="https://cdn.dribbble.com/users/364116/screenshots/1899338/yogocat_animation.gif"> 𝖕𝖊𝖆𝖈𝖊𝖋𝖚𝖑 𝖜𝖆𝖗𝖗𝖎𝖔𝖗 </td>
    <tr>
      
 </table>
