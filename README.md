@@ -28,8 +28,8 @@
    <tr>
     <tr>
      <td>👯 I’m looking to collaborate on : <br> Laravel | Drupal | Joomla | WordPress </td>
-     <td>:alien: I’m looking for yes you are right!  </td>
-     <td>😄 Pronouns: he/him </td>
+     <td>:alien: I’m looking for <-- Found that im the One </td>
+     <td> 𝖕𝖊𝖆𝖈𝖊𝖋𝖚𝖑 𝖜𝖆𝖗𝖗𝖎𝖔𝖗 </td>
    <tr>
      
 </table>
