@@ -1,5 +1,5 @@
 <!--<img margin="auto" width="30%" src="https://dev-to-uploads.s3.amazonaws.com/i/8cz7yqmjjyva9w8f0di1.gif">-->
-  <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">  I'm Uthpal Umesh :octocat: </h1>
+  <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> I'm Uthpal Umesh :octocat: </h1>
  
 
   <h3 align="center">A Passionate Front-end web Developer | HyFlex Web 3.0 | Digital Marketer</h3></td>
