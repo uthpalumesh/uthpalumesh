@@ -1,4 +1,4 @@
-<!--<img margin="auto" width="30%" src="https://dev-to-uploads.s3.amazonaws.com/i/8cz7yqmjjyva9w8f0di1.gif">-->
+<!--<img margin="auto" width="30%" src="https://dev-to-uploads.s3.amazonaws.com/i/8cz7yqmjjyva9w8f0di1.gif">--> 
   <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> I'm Uthpal Umesh :octocat: </h1>
  
 
@@ -34,10 +34,10 @@
      
 </table>
 
-<!--<p align="center">📫 How to reach me: <a href="https://wa.me/+919743650870">Whatsapp Me!</a></p>
+<p align="center">📫 How to reach me: <a href="https://wa.me/+919743650870">Whatsapp Me!</a></p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uthpalumesh" alt="uthpalumesh" /></a> </p>-->
+<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uthpalumesh" alt="uthpalumesh" /></a> </p>-->
 
 
 <h3 align="center">Connect with me:</h3>
