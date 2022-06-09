@@ -24,7 +24,7 @@
   <tr>
      <td>🔭 I’m currently working on :<br> Drupal | Laravel </td>
      <td>🌱 I’m currently learning : Vue.js | web 3.0</td>
-     <td>💬 Ask me about Anything <br> im sure ill say something!</td>
+     <td>💬 Ask me about Anything <br> im sure ill say something! </td>
    <tr>
     <tr>
      <td>👯 I’m looking to collaborate on : <br> Laravel | WordPress </td>
