@@ -10,7 +10,7 @@
 
 <p align="center"><img  src="https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif"></p>
 
-<table align=center>
+<table align=center> 
  <tr>
   <td><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{uthpalumesh}1212%2Fhit-counter" alt="uthpalumesh" /></td>
   <td><img src="https://github-profile-trophy.vercel.app/?username=uthpalumesh" alt="uthpalumesh" /> </td>
