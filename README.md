@@ -20,6 +20,20 @@
  </table>
 <p align="center"><img width="100%" src="https://raw.githubusercontent.com/mayankchaudhary26/mayankchaudhary26/output/github-contribution-grid-snake.svg"></p>
  
+ <table align="center">
+  <tr align="center">
+    <td align="center"><b>Connect:</b></td>
+    <td align="center">
+<a href="https://linkedin.com/in/uthpalumesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="uthpalumesh" width="100px" /></a>
+</td>
+<td align="center"><h3 align="center"><a href="https://wa.me/+919743650870">:calling:</a></h3></td>
+<td align="center"><h3 align="center"> <a href="mailto:uthpalumesh@gmail.com">:envelope_with_arrow:</a></h3></td>
+
+<!--<p align="center"> <a href="https://twitter.com/uthpalumesh" target="blank"><img src="https://img.shields.io/twitter/follow/uthpalumesh?logo=twitter&style=for-the-badge" alt="uthpalumesh" /></a> </p>-->
+  </tr>
+  </table>
+ 
+ 
 <table style="overflow: hidden !important;" align="center">
   <tr>
      <td>🔭 I’m currently working on :<br> Drupal | Laravel </td>
@@ -41,17 +55,7 @@
 
 
 
-<table align="center">
-  <tr align="center">
-    <td align="center"><b>Connect:</b></td>
-<td align="center"><h3 align="center"><a href="https://wa.me/+919743650870">:calling:</a></h3></td>
-<td align="center"><h3 align="center"> <a href="mailto:uthpalumesh@gmail.com">:envelope_with_arrow:</a></h3></td>
-<td align="center">
-<a href="https://linkedin.com/in/uthpalumesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="uthpalumesh" width="100px" /></a>
-</td>
-<!--<p align="center"> <a href="https://twitter.com/uthpalumesh" target="blank"><img src="https://img.shields.io/twitter/follow/uthpalumesh?logo=twitter&style=for-the-badge" alt="uthpalumesh" /></a> </p>-->
-  </tr>
-  </table>
+
 <!--
 <a href="https://codepen.io/uthpalumesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="uthpalumesh" height="30" width="40" /></a>
 <a href="https://twitter.com/uthpalumesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uthpalumesh" height="30" width="40" /></a>
