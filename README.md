@@ -34,17 +34,18 @@
      
 </table>
 
-<p align="center">📫 How to reach me: <a href="https://wa.me/+919743650870">Whatsapp Me!</a></p>
+
 
 
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uthpalumesh" alt="uthpalumesh" /></a> </p>-->
 
 
-<h3 align="center">Connect with me:</h3>
-<table>
-  <tr>
-<td align="center"><a href="https://wa.me/+919743650870"><img width="100%" src="https://svgshare.com/i/hT4.svg"></a></td>
 
+<table align="center">
+  <tr align="center">
+    <td align="center"><b>Connect:</b></td>
+<td align="center"><h3 align="center"><a href="https://wa.me/+919743650870">:calling:</a></h3></td>
+<td align="center"><h3 align="center"> <a href="mailto:uthpalumesh@gmail.com">:envelope_with_arrow:</a></h3></td>
 <td align="center">
 <a href="https://linkedin.com/in/uthpalumesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="uthpalumesh" width="100px" /></a>
 </td>
