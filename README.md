@@ -22,7 +22,7 @@
  
  <table align="center">
   <tr align="center">
-    <td align="center"><b>Connect:</b></td>
+    <td align="center"><b>Connect: </b></td>
     <td align="center">
 <a href="https://linkedin.com/in/uthpalumesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="uthpalumesh" width="100px" /></a>
 </td>
